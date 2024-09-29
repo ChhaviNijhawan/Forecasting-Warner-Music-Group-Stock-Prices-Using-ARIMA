@@ -72,7 +72,8 @@ With the increasing competition in the music industry, it's crucial for Warner M
 **Visual Insights:** Provide graphs showing the actual and predicted revenue trends over time.
 
 <img width="841" alt="Screenshot 2024-09-29 at 4 46 35 PM" src="https://github.com/user-attachments/assets/29263958-796d-42e8-93a3-2042819e76ae">
-<img width="631" alt="Screenshot 2024-09-29 at 4 50 59 PM" src="https://github.com/user-attachments/assets/eb6fafd0-bb2b-4944-b6c2-b786e0904431">
+
+<img width="833" alt="Screenshot 2024-09-29 at 4 52 33 PM" src="https://github.com/user-attachments/assets/8de0dee6-d3d7-45e0-b426-afdd697180e2">
 
 
 
