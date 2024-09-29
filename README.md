@@ -69,6 +69,7 @@ With the increasing competition in the music industry, it's crucial for Warner M
 
 **Visual Insights:** 
 
+The chart displays the closing price of Warner Music Group stock over time, represented by the blue line, which shows significant fluctuations, particularly peaking around mid-2021. The 20-day moving average (orange line) provides a short-term view, reacting quickly to recent price changes, while the 50-day moving average (green line) offers a more stable perspective of the overall trend. The analysis indicates that the stock generally trended upward from mid-2020 to mid-2021 but became more volatile in late 2022 and early 2023. Crossings between the closing price and moving averages suggest potential buy (when the price crosses above) or sell (when the price crosses below) signals, providing valuable insights for investors and traders in understanding the stock's behavior.
 <img width="841" alt="Screenshot 2024-09-29 at 4 46 35 PM" src="https://github.com/user-attachments/assets/29263958-796d-42e8-93a3-2042819e76ae">
 
 <img width="833" alt="Screenshot 2024-09-29 at 4 52 33 PM" src="https://github.com/user-attachments/assets/8de0dee6-d3d7-45e0-b426-afdd697180e2">
