@@ -21,6 +21,7 @@ With the increasing competition in the music industry, it's crucial for Warner M
 **2. Exploration:** Analyze the data to understand its structure, check for missing values, and perform initial data cleaning.
 
 
+
 **Step 2: Feature Engineering**
 
 **1. Time Features:** Extract relevant time-based features, such as Year and Quarter.
@@ -28,9 +29,11 @@ With the increasing competition in the music industry, it's crucial for Warner M
 **2. Lag Features:** Create lagged revenue features to help the model learn from past performance.
 
 
+
 **Step 3: Splitting Data**
 
 **Train-Test Split:** Split the dataset into training and testing sets to evaluate the model's performance effectively.
+
 
 
 **Step 4: Data Scaling**
@@ -38,9 +41,11 @@ With the increasing competition in the music industry, it's crucial for Warner M
 **Normalization:** Scale the revenue data for better model performance using techniques like StandardScaler.
 
 
+
 **Step 5: Model Selection**
 
 **Choose a Forecasting Model:** For this project, you can use models like ARIMA, LSTM, or a simple linear regression model.
+
 
 
 **Step 6: Forecasting**
@@ -48,9 +53,11 @@ With the increasing competition in the music industry, it's crucial for Warner M
 **Make Predictions:** Use the trained model to forecast future revenue and evaluate it against the test data.
 
 
+
 **Step 7: Evaluation**
 
 **Metrics:** Evaluate model performance using metrics like Mean Absolute Error (MAE) or Mean Squared Error (MSE).
+
 
 
 **Step 8:** Data Visualization
