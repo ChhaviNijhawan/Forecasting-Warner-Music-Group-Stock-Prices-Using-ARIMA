@@ -67,8 +67,6 @@ With the increasing competition in the music industry, it's crucial for Warner M
 
 # Results
 
-**Forecast Accuracy:** Summarize the accuracy of the forecasting model using the selected metrics.
-
 **Visual Insights:** 
 
 <img width="841" alt="Screenshot 2024-09-29 at 4 46 35 PM" src="https://github.com/user-attachments/assets/29263958-796d-42e8-93a3-2042819e76ae">
@@ -77,8 +75,3 @@ With the increasing competition in the music industry, it's crucial for Warner M
 
 
 
-# Conclusion
-
-**Summary:** Recap the forecasting process, the performance of the model, and the insights gained from the analysis.
-
-**Future Work:** Discuss potential improvements, such as using more complex models or additional data sources.
